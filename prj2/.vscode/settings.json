@@ -53,7 +53,8 @@
         "**/*.iex": true,
         "**/*.bak": true,
         "**/tkcalculate.OBJ": false,
+        "**/*.LST": true,
         "**/*.OBJ": true,
-        "**/*.LST": true
+        "**/*.HTML": true
     }
 }

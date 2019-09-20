@@ -15,8 +15,10 @@
 *.cod
 *.htm
 *.html
+*.HTML
 *.i
 *.lst
+*.LST
 *.map
 *.m51
 *.m66
